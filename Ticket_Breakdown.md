@@ -18,6 +18,7 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 ## Your Breakdown Here
 
 - Ticket 1
+
 **Acceptance criteria**: Reports are generated using custom ids
 
 **Time/effort estimates**: 1 point
@@ -25,6 +26,7 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 **Implementation Details**: Change the method generateReport in order to generate report using custom ids. 
 
 - Ticket 2
+
 **Acceptance criteria**: the method getShiftsByFacility are returning the agent's custom Id.
 
 **Time/effort estimates**: 1 point
@@ -33,6 +35,7 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 
 
 - Ticket 3
+
 **Acceptance criteria**: The table Agent has a new field called AgentId.
 
 **Time/effort estimates**: 1
